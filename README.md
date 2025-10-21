@@ -54,6 +54,16 @@ Olá me chamo WIillian Koji, tenho 27 anos e estou no 4º semestre de Análise e
 <br/>
 <br/>
 
+### 📫 Contato
+   <p align="left">
+  <a href="https://linkedin.com/in/willian-hirata" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hiratawillian@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ### 📊Minhas Estatistícas:
 <p>
   <img
